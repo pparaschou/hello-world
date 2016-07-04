@@ -1,7 +1,5 @@
 # hello-world
 
-Test Coding................................
+Testing...
 
-Test
-
-So much testing
+So much testing...!
