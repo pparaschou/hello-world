@@ -1,6 +1,6 @@
 # hello-world
 
-Test Coding................................
+Test Coding...
 
 Test
 
